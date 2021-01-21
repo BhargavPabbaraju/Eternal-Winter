@@ -1,0 +1,20 @@
+#PLAYER POSITION
+8 7
+#MAPDATA
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 f f 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 f f f f 0 0 0 0 0 0 0 0 0 0 
+0 0 f f f f f f f f 0 0 0 0 0 0 
+0 0 f f f f f f f f 0 0 0 0 0 0 
+0 0 f f f f f f f f 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 f 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 f 0 0 0 0 0 0 
+0 0 0 0 0 0 0 f f f 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+#COLLECTIBLES
+0
+#WARPHOLES
+0
+#PORTAL
+1 1 0 008
+8 7 3 006

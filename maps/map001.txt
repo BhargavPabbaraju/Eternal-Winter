@@ -1,0 +1,21 @@
+#PLAYER POSITION
+2 4
+#MAPDATA
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 s s s s s 0 0 0 0 0 0 0 
+0 0 0 0 0 s s s s 0 0 0 0 0 0 0 
+0 0 0 0 0 s s s s 0 0 0 0 0 0 0 
+0 0 0 0 0 s s s s 0 0 0 0 0 0 0 
+0 0 0 0 0 s s s s 0 0 0 0 0 0 0 
+0 0 0 s s s s s s 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+#COLLECTIBLES
+1
+r1 5 7
+#WARPHOLES
+0
+#PORTAL
+7 3 0 002
+X X X X
